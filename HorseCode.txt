@@ -1,0 +1,19 @@
+//Simple horse class created by Tristan Chapman
+// for CTE Software and Programming class 2024
+
+
+public class horse {
+
+    String name;
+    Int birthyear;
+
+    public horse (String horsename, int year){ //horse constructor needs its name}
+        name=horseName; //assigns the name of the horse to said horse name.
+        birthYear=year; //assigns the birthyear its coorersponding year.
+    
+    }
+}
+
+
+
+
