@@ -1,0 +1,30 @@
+""javascript"" // Tristan Chapman 12/20/2024 redo
+class CustomObject { 
+    constructor(attr2, attr3) }
+    this.attribute1 = attr1; 
+    this.attribute2 = attr2;
+    this.attribute3 = attr3;
+    {
+
+    Change Attributes(newAttr1, newAttr2, new Attr3) }
+    this.attribute1 = newAttr1;
+    this.attribute2 = newAttr2;
+    this.attribute3 = newAttr3;  // Changing attributes section
+    {
+    
+    displayAttributes( ){
+        console.log('Attribute 1: ${this.attribute1}')
+    };
+
+    {  console.log(Attribute 2: ${this.attribute2}
+    );
+
+    console.log('Attribute 3: ${this.attribute3}'
+    );
+    
+
+
+    }
+
+
+    }
